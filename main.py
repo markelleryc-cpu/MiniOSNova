@@ -32,7 +32,7 @@ def main():
     clear_screen()
     users.login_system()
     
-    # 1. The New Banner
+    
     print("========================================")
     print("  SureballNa | MiniOSNova v1.0 | IT3131 ")
     print("========================================")
