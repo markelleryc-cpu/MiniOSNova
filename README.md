@@ -4,9 +4,10 @@
 
 ## Group Members
 1. Mark Ellery Contreras - Project Leader
-2. 
-3. 
-4. 
+2. Tamara Nicole M. DONDIEGO
+3. Shgian Dane Wilfred M. DELIMA
+4. Kathy P. FLORES
+5. Justenn J. DIEL
 
 ## Project Description
 **MiniOSNova** is a lightweight, simulated command-line operating system developed in Python. Running directly through the Windows Command Prompt (CMD) or terminal, it simulates how an operating system manages core tasks behind the scenes without requiring hardware-level changes. Users can log in through a secure authentication gateway, manage virtual files and directories, start and terminate simulated background processes, and allocate or free virtual system memory.
