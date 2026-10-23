@@ -1,4 +1,4 @@
-# MiniOS [Your Assigned Group Name]
+# MiniOS - SureballNa (Group 6)
 
 **Operating Systems Final Project**
 
@@ -15,20 +15,20 @@
 ---
 
 ## Features
-* **Command-Line Interface (CLI):** Custom `MiniOSNova>` command shell that parses user commands and routes tasks to specialized system modules.
-* **User Management:** Secure login prompt with hidden password keystrokes and active user tracking.
-* **File System Management:** Virtual in-memory file system using Python lists and dictionaries to create, view, read, and delete directories and files.
-* **Process Management Simulation:** Starts and terminates simulated applications while assigning unique, incremental Process IDs (PIDs).
-* **Memory Management Simulation:** Tracks total, allocated, and free system RAM in Megabytes (MB).
-* **System Information:** Displays simulated OS details, version, virtual architecture, and the currently logged-in user.
-* **Error Handling:** Catches unknown commands, missing arguments, invalid file/PID targets, and `Ctrl+C` keyboard interrupts without crashing.
+- **Command-Line Interface (CLI):** Custom `MiniOSNova>` command shell that parses user commands and routes tasks to specialized system modules.
+- **User Management:** Secure login prompt with hidden password keystrokes and active user tracking.
+- **File System Management:** Virtual in-memory file system using Python lists and dictionaries to create, view, read, and delete directories and files.
+- **Process Management Simulation:** Starts and terminates simulated applications while assigning unique, incremental Process IDs (PIDs).
+- **Memory Management Simulation:** Tracks total, allocated, and free system RAM in Megabytes (MB).
+- **System Information:** Displays simulated OS details, version, virtual architecture, and the currently logged-in user.
+- **Error Handling:** Catches unknown commands, missing arguments, invalid file/PID targets, and `Ctrl+C` keyboard interrupts without crashing.
 
 ---
 
 ## Requirements
-* **Python 3.x**
-* **Windows Command Prompt (CMD)**, PowerShell, or VS Code Terminal
-* No external third-party libraries are required (uses Python standard libraries).
+- **Python 3.x**
+- **Windows Command Prompt (CMD)**, PowerShell, or VS Code Terminal
+- No external third-party libraries are required (uses Python standard libraries).
 
 ---
 
