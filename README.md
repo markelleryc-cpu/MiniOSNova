@@ -1,4 +1,4 @@
-# MiniOS - SureballNa (Group 6)
+# MiniOS - SureballNa
 
 **Operating Systems Final Project**
 
